@@ -1,4 +1,4 @@
-##'Stay Safe Online Checklist'
+**'Stay Safe Online Checklist'**
 
 . Use strong password or password manager
 . Enable 2-Step Verification
